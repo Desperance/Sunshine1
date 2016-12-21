@@ -44,7 +44,7 @@ public class ForecastFragment extends Fragment {
     public String mKey = "b2ad40fb36c6988e3041405eb51e2817";
     public ForecastFragment() {
     }
-    //some changes
+    //some changess
 
     @Override
     public void onCreate(@Nullable Bundle savedInstanceState) {
