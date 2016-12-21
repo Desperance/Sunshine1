@@ -38,7 +38,7 @@ public class WeatherDbHelper extends SQLiteOpenHelper {
 
     @Override
     public void onCreate(SQLiteDatabase sqLiteDatabase) {
-
+//asdasfasdasfas
 
         final String SQL_CREATE_LOCATION_TABLE = "CREATE TABLE " + LocationEntry.TABLE_NAME + " (" +
                                 LocationEntry._ID + " INTEGER PRIMARY KEY," +
